@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body, h1, h2, h3, h4, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+h1 img {
+  display: block;
+}
+
+img {
+  border: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nf {
+  clear: both;
+}
+
+/* Estilos generales */
+body {
+  background-color: #a6bf7d;
+}
+
+#wrapper {
+  width: 717px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+header {
+  width: 717px;
+  height: 255px;
+}
+
+nav {
+  height: 30px;
+  background: #85a157;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+nav ul {
+  height: 100%;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 6px 0 9px 45px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+section#contenidogeneral {
+  background: #e6e8e0;
+  height: 711px;
+  height: 412px;
+  margin: 0 auto;
+  border: 3px solid #fff;
+  border-top: none;
+  border-radius: 0 0 5px 5px;
+}
+
+footer {
+  text-align: center;
+  font-family: Verdara;
+  font-size: 12px;
+  color: rgb(255, 255, 255);
+  margin-top: 10px;
+}
+
+footer a {
+  color: rgb(255, 255, 255);
+}
+
+#logoBievenida, #Tienda {
+  font-family: Verdana;
+  font-size: 24px;
+  font-style: italic;
+  position: absolute;
+  color: #fff;
+}
+
+#Catalogo, #participation a {
+  font-family: Verdana;
+  font-size: 18px;
+  font-weight: normal;
+  color: #fff;
+  position: absolute;
+}
+
+#logoBievenida {
+  margin: 65x 0 0 70px;
+}
+
+#Tienda {
+  margin: 90px 0 0 93px;
+}
+
+#Catalogo {
+  margin: 120px 0 0 43px;
+  width: 230px;
+}
+
+#participation a {
+  margin: 175px 0 0 43px;
+  width: 150px;
+  text-decoration: underline;
+  font-size: 12px;
+}
+
+#titulosilderbar {
+  font-size: 14px;
+  font-family: Verdana;
+  color: #85a157;
+  padding: 30px;
+  bottom: 30px;
+  width: 170px;
+}
+
+#upLatestNews {
+  width: 245px;
+  float: right;
+  border-left: 2px solid #fff;
+  padding: 0 0 0 14px;
+}
+
+#upLatestNews {
+  font-family: Verdana;
+  font-size: 11.5 px;
+  font-weight: normal;
+  padding-bottom: 30px;
+}
+
+#LeststNews {
+  width: 170px;
+}
+
+#subtitulossidebar {
+  font-family: Verdana;
+  font-size: 13px;
+  color: #c77e8c;
+  padding-bottom: 20px;
+  text-decoration: underline;
+}
+
+#contenidoprincipal {
+  float: left;
+  padding: 26px 0 0 29px;
+}
+
+.titulo {
+  width: 315px;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 32px;
+}
+
+.parrafos {
+  width: 415px;
+  font-family: Verdana;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.parrafos .parrafo {
+  padding-bottom: 20px;
+}
+
+.contenidogaleria {
+  float: left;
+  padding: 0 0 0 29px;
+  width: 418px;
+}
+
+/*# sourceMappingURL=page01.css.map */
